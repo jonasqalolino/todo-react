@@ -1,0 +1,38 @@
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-content {
+  margin-right: 2rem;
+}
+
+.todo-buttons {
+  margin-right: 3rem;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.edit {
+  margin-right: 1rem;
+}
+
+.delete {
+  margin-right: 1.2rem;
+}
+
+.modal-btn {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+#transition-modal-title {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
